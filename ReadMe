@@ -1,1 +1,6 @@
-This project aims to develop a robust sentiment analysis pipeline capable of discerning the sentiment of comments across different subreddits. By analyzing sentiment, we can understand how various communities react to content, identify topics that evoke strong emotions, and distinguish between communities that are predominantly positive or negative in their interactions. This insight can be valuable for community managers, moderators, marketers, and social scientists interested in understanding online discourse dynamics.
+This project will provide an in-depth exploration of the sentiment analysis pipeline developed for analyzing Reddit comments. It will cover:
+•	The multi-model approach using both RoBERTa and VADER models for sentiment classification.
+•	The data collection and preprocessing methods employed to handle Reddit’s unstructured data.
+•	The sentiment aggregation techniques used to derive meaningful insights from individual comments.
+•	The evaluation of the pipeline's performance on different subreddits and discussion of key findings.
+•	The challenges faced, limitations of the current approach, and potential avenues for future improvements.
